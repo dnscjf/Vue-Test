@@ -1,24 +1,7 @@
 # test
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
+- Vue 기초 학습 자료입니다.
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
